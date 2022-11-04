@@ -6,7 +6,7 @@ When you go to a subpage, the home page is still highlighted by the nav bar
 
 
 1) Interest of content
-good content, 75%
+75%
 2) Consistency and quality of visual presentation
 65%
 3) Quality of written presentation
